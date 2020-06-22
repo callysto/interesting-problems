@@ -1,2 +1,3 @@
-# interesting-problems
-Home for interesting problems that can be demonstrated with Jupyter notebooks.
+# Interesting Problems
+
+Home for interesting problems that can be demonstrated or solved in Jupyter notebooks.
