@@ -56,6 +56,8 @@ To run a notebook, click the Open in Callysto button or use one of the links bel
 
 [Analysing Text Statistics](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/analysing-text-statistics.ipynb&depth=1)
 
+[Household Budget Visualization](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/budget-visualization.ipynb&depth=1)
+
 [Area of the Toppled Square](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/toppled-square-problem.ipynb&depth=1)
 
 [Populations of Countries](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/populations-of-countries.ipynb&depth=1)
@@ -73,3 +75,4 @@ To run a notebook, click the Open in Callysto button or use one of the links bel
 [Improper Fractions and Mixed Numbers](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/converting-improper-fractions-mixed-numbers.ipynb&depth=1)
 
 [Celsius and Fahrenheit Intersection](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/celsius-and-fahrenheit-intersection.ipynb&depth=1)
+
