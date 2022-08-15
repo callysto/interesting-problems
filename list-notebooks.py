@@ -14,7 +14,7 @@ for root, dirs, files in os.walk('.'):
         if filename.endswith('.ipynb'):
             if not 'checkpoint' in filename:
                 notebook_name_and_path = os.path.join(root, filename)
-                notebook = json.load(open(notebook_name_and_path))
+                notebook = json.load(open(notebook_name_and_path, encoding='utf-8'))
                 second_cell = notebook['cells'][1]['source'][0]
                 title = second_cell[2:second_cell.find('\n')]
                 link = url_stem+filename+'&depth=1'
