@@ -10,6 +10,8 @@ To run a notebook, click the Open in Callysto button or use one of the links bel
 
 [Accessing Open Data](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/accessing-open-data.ipynb&depth=1)
 
+[Anagram Solver](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/anagram-solver.ipynb&depth=1)
+
 [Analysing National Hockey League Statistics](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/analysing-nhl-statistics.ipynb&depth=1)
 
 [Analysing Text Statistics](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/analysing-text-statistics.ipynb&depth=1)
