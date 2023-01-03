@@ -20,6 +20,8 @@ To run a notebook, click the Open in Callysto button or use one of the links bel
 
 [Beep Buzz Challenge](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/beep-buzz.ipynb&depth=1)
 
+[Billionaires](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/billionaires.ipynb&depth=1)
+
 [The Birthday Problem](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/birthday-problem.ipynb&depth=1)
 
 [Household Budget Visualization](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/budget-visualization.ipynb&depth=1)
@@ -58,7 +60,11 @@ To run a notebook, click the Open in Callysto button or use one of the links bel
 
 [Intersecting Savings](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/intersecting-savings.ipynb&depth=1)
 
+[Kaprekar's Constant](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/kaprekars-constant.ipynb&depth=1)
+
 [Locker Problem](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/lockers-open-close.ipynb&depth=1)
+
+[Migratory Bird Sanctuaries](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/migratory-bird-sanctuaries.ipynb&depth=1)
 
 [Four Digit Products](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/openmiddle-four-digit-products.ipynb&depth=1)
 
@@ -81,6 +87,8 @@ To run a notebook, click the Open in Callysto button or use one of the links bel
 [Area of the Toppled Square](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/toppled-square-problem.ipynb&depth=1)
 
 [12 Days of Christmas](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/twelve-days-of-christmas.ipynb&depth=1)
+
+[Two-Digit Primes](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/two-digit-primes.ipynb&depth=1)
 
 [Which One Doesn't Belong?](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main&subPath=notebooks/wodb-bar-charts.ipynb&depth=1)
 
